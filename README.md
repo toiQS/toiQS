@@ -42,13 +42,11 @@
 <p>
  <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW12MHd3MjJmMXFodHIzdnhpMHR4Ym9vOHZobXUyeW02ank2bTl1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lSTNj6Az2DoD4QG8mK/giphy.gif"/>
   
- ✌️ &emsp; Enjoy watching movie and anime<br/><br/>
- ❤️ &emsp; Love to playing Genshin Impact and TFT<br/><br/>
- 🥲 &emsp; Account boosting Genshin Impact and Honkai: Star Rail<br/><br/>
+
  Detail please contact below<br/><br/>
- 📧 &emsp; Reach me anytime: quangdvo11311@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: nguyensieu12112002@gmail.com<br/><br/>
  💬 &emsp; If can not contact to me via email, please call:<br/><br/>
- (+84) 933906160 or (+84) 354510589
+ (+84) 392828702
 
 </p>
 
