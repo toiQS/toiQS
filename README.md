@@ -16,26 +16,15 @@
 </p>
 
 <p align="center">
-<!--
- <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
- </a>
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
--->
-
- 
- <a href="https://www.facebook.com/toiQS" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"/>
- </a>
  <a href="https://www.linkedin.com/in/nguyenquocsieu-akai/" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=linkerin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lbt"/>
  </a>
- 
+  
+ <a href="https://www.facebook.com/toiQS" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="lbt"  />
+  </a> 
 </p>
 <br />
-
 <!-- About Section -->
  # About me
  
