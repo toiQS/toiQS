@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-My name is Nguyen Quoc Sieu. Personal information: - Gender: Male - Phone number: 0392828702 - Email: nguyensieu12112002@gmail.com
+My name is Nguyen Quoc Sieu. Personal information: 
+- Gender: Male
+- Phone number: 0392828702
+- Email: nguyensieu12112002@gmail.com
 
 * 🌍  I'm based in Long An, Viet Nam
 * ✉️  You can contact me at [nguyensieu1212002@gmail.com](mailto:nguyensieu1212002@gmail.com)
