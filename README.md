@@ -6,9 +6,6 @@ Developer
 
 
 Personal information: 
-- Gender: Male
-- Phone number: 0392828702
-- Email: nguyensieu12112002@gmail.com
 
 * 🌍  I'm based in Long An, Viet Nam
 * ✉️  You can contact me at [nguyensieu1212002@gmail.com](mailto:nguyensieu1212002@gmail.com)
