@@ -1,0 +1,137 @@
+%-------------------------
+% Resume in Latex
+% Author : Nguyen Quoc Sieu
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://github.com/toiQS}{\Large Nguyen Quoc Sieu}} & Email: \href{mailto:nguyensieu12112002@gmail.com}{nguyensieu12112002@gmail.com} \\
+  \href{https://www.linkedin.com/in/nguyenquocsieu-akai/}{linkedin.com/in/nguyenquocsieu-akai/} & Mobile: (+84) 392828702 \\
+  {Address:} {District 4, Ho Chi Minh City}
+\end{tabular*}
+
+%-----------OBJECTIVE-----------------
+\section{Objective}
+\resumeSubHeadingListStart
+  \item{
+    My goal is to become a programmer with increasingly good expertise, effectively contributing to the development of the organization and improving personal skills.
+  }
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Sai Gon University}{Ho Chi Minh City, Viet Nam}
+    {Information Technology Engineer}{2020 -- Mar. 2025}
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\section{Projects}
+\resumeSubHeadingListStart
+  \resumeSubheading
+    {Project Manager}{Jul 2024}{}{\href{https://github.com/toiQS/ProjectManager}{github.com/toiQS/ProjectManager}}
+    \resumeItemListStart
+      \resumeItem{Description}
+        {\\
+         - Analyzed project requirements based on user needs. \\
+         - Designed a SQL Server database. \\
+         - Implemented a user-friendly interface using WPF. \\
+         - Utilized Entity Framework for data management.}
+      \resumeItem{Technologies Used}
+        {C\#, WPF, Entity Framework, SQL Server}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {Blog Web API}{Apr 2024 - Jun 2024}{}{\href{https://github.com/toiQS/Blog-Web-API}{github.com/toiQS/Blog-Web-API}}
+    \resumeItemListStart
+      \resumeItem{Description}
+        {\\
+        - Developed RESTful services using ASP.NET Core.\\ 
+        - Implemented Identity Framework for user management and JWT Bearer for authentication and authorization.
+        \\
+        - Designed and managed the database with SQL Server.}
+      \resumeItem{Technologies Used}
+        {C\#, ASP.NET, Entity Framework, Identity Framework, SQL Server, JWT Bearer}
+    \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%--------PROGRAMMING SKILLS------------
+\section{Programming Skills}
+\resumeSubHeadingListStart
+  \resumeItem{Languages}{C\#, C/C++, Java, Python}
+  \resumeItem{Web Development}{Entity Framework, Identity Framework, ASP.NET, JWT Bearer, FastAPI}
+  \resumeItem{Desktop Application Development}{XAML, WinForms, WPF}
+  \resumeItem{Management and Security}{JWT, Multithreading (learning and exploring)}
+  \resumeItem{Database}{SQL Server}
+  \resumeItem{Other Tools and Technologies}{Git/GitHub}
+\resumeSubHeadingListEnd
+
+%-------------------------------------------
+\end{document}
