@@ -2,6 +2,12 @@
 
 👨‍💻 **.NET Developer** | 💡 Passionate Learner | 🎯 Focused on Back-End Development  
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7BE16&width=435&lines=Welcome+to+my+profile!+;I'm+a+.NET+Developer.;Passionate+about+learning!;Excited+to+connect+with+you!)  
+
+![Wolf Animation](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
+---
+
 ## 🌍 Where I'm Based:  
 📍 Long An, Vietnam  
 
@@ -53,6 +59,12 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toiQS&show_icons=true&hide=&count_private=true&title_color=F97316&text_color=10B981&icon_color=10B981&bg_color=1A202C&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toiQS&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toiQS&layout=compact&langs_count=10&title_color=F97316&text_color=10B981&icon_color=10B981&bg_color=1A202C&hide_border=true)  
+![Top Languages](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&width=435&lines=Top%20Languages;C%23;Python;C++;ASP.NET;Entity%20Framework)  
+
+---
+
+## 🔢 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=toiQS&label=Profile%20Views&color=brightgreen&style=flat)  
 
 ---
