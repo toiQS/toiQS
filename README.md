@@ -54,7 +54,7 @@
 - **Entity Framework Core** (Database ORM)  
 - **Microservices & API Gateway (Ocelot)**  
 - **JWT Authentication** (Secure APIs)  
-- **Docker** (Containerization)  
+-   
 - **Git/GitHub** (Version Control)  
 
 ### 💼 **IDEs**  
