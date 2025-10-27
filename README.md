@@ -1,83 +1,70 @@
-# Hi, I'm Nguyen Quoc Sieu! 🚀  
+# 👋 Hi, I'm Nguyen Quoc Sieu  
 
-👨‍💻 **.NET Developer** | 🎯 **Back-End Enthusiast** | 💡 **Microservices & Scalable Systems**  
-
-🔹 Passionate about **.NET development, ASP.NET Core, and microservices**.  
-🔹 Always learning new technologies and improving **software architecture**.  
-
----
-
-## 🌍 **Where I'm Based**  
-📍 **Long An, Vietnam**  
-
-## 📬 **Contact Me**  
-📩 **Email:** [nguyensieu1212002@gmail.com](mailto:nguyensieu1212002@gmail.com)  
-💼 **LinkedIn:** [NguyenQuocSieu](https://www.linkedin.com/in/nguyenquocsieu-akai)  
-🐦 **Twitter/X:** [@sieu_nguyen02](https://www.x.com/sieu_nguyen02)  
+🎯 **Fresher / Junior .NET Backend Developer**  
+💡 Passionate about **Clean Architecture, CQRS, and scalable backend systems**  
+📍 Based in **Long An, Vietnam**
 
 ---
 
-## 🚀 **Top Projects**  
-
-### 🔹 **[PM - Project Management System](https://github.com/toiQS/PM)**
-✅ **Tech Stack:** ASP.NET Core, Microservices, JWT, Ocelot API Gateway, EF Core  
-✅ **Key Features:**  
-- Project & Task Management  
-- User Authentication (JWT)  
-- Team Collaboration & Reports  
-- Microservices Architecture  
-
-🔗 **GitHub Repo:** [github.com/toiQS/PM](https://github.com/toiQS/PM)  
+## 🚀 About Me  
+- Final-year IT student at **Saigon University**  
+- Internship experience at **VNPT Long An**, developing real-world APIs using **ASP.NET Core** and **EF Core**  
+- Enjoy designing maintainable backend systems and learning new architecture patterns  
+- Strong interest in **system design**, **microservices**, and **software scalability**
 
 ---
 
-### 🔹 **[Project Manager (WPF)](https://github.com/toiQS/ProjectManager-old)**  
-✅ **Tech Stack:** WPF, Entity Framework Core  
-✅ **Key Features:**  
-- GUI-based project management tool  
-- Simple & lightweight for personal use  
-- CRUD operations for projects  
+## 💼 Tech Stack  
 
-🔗 **GitHub Repo:** [github.com/toiQS/ProjectManager-old](https://github.com/toiQS/ProjectManager-old)  
-
----
-
-## 🔥 **Tech Stack & Skills**  
-
-### 💻 **Programming Languages**  
-- **C#** (Primary, Back-End Development)  
-- **C++** (System-Level Programming)  
-- **Python** (Scripting & Automation)  
-
-### 🛠 **Frameworks & Tools**  
-- **ASP.NET Core** (Web APIs, Authentication)  
-- **Entity Framework Core** (Database ORM)  
-- **Microservices & API Gateway (Ocelot)**  
-- **JWT Authentication** (Secure APIs)  
--   
-- **Git/GitHub** (Version Control)  
-
-### 💼 **IDEs**  
-- **Visual Studio**  
-- **VS Code**  
+### 🧠 **Core Skills**
+- **Languages:** C#, SQL, LINQ  
+- **Frameworks:** ASP.NET Core, Entity Framework Core, WPF (MVVM)  
+- **Architecture:** Clean Architecture, CQRS, Repository & Unit of Work  
+- **Database:** PostgreSQL, SQL Server  
+- **Security:** JWT Authentication, Role-based Authorization  
+- **Tools:** Git, GitHub, Swagger, Docker (basic), GitHub Actions (CI/CD)
 
 ---
 
-## 📊 **GitHub Stats & Insights**  
+## 🧩 Featured Projects  
+
+### 🔹 [TaskMind — Project Management System](https://github.com/toiQS/TaskMind)
+> **Tech:** .NET 8, EF Core, PostgreSQL, CQRS, MediatR, WPF (MVVM)  
+> - Built a desktop client + backend architecture following **Clean Architecture** principles  
+> - Implemented **CQRS pattern** with MediatR for separation of concerns  
+> - Practiced **IAsyncEnumerable streaming**, LINQ optimization, and domain-driven modeling  
+> - Focused on reusable UI components and transaction-safe repositories  
+
+🔗 **Repo:** [github.com/toiQS/TaskMind](https://github.com/toiQS/TaskMind)
+
+---
+
+### 🔹 [E-commerce Marketplace (Internship Project)](https://github.com/toiQS/PM)
+> **Tech:** ASP.NET Core, EF Core, PostgreSQL, Swagger, JWT, VNPAY Integration  
+> - Developed backend APIs for authentication, product management, and payment flow  
+> - Integrated **VNPAY payment gateway** and handled secure callbacks  
+> - Improved DB schema with EF Core migrations and indexing  
+
+🔗 **Repo:** [github.com/toiQS/Digital-product-trading-system](https://github.com/toiQS/Digital-product-trading-system)
+
+---
+
+## 📊 GitHub Stats  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toiQS&show_icons=true&count_private=true&title_color=F97316&text_color=10B981&icon_color=10B981&bg_color=1A202C&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toiQS&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toiQS&theme=dark&hide_border=true)
 
 ---
 
-## 🌟 **Social Links**  
+## 🌐 Connect With Me  
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/toiQS)  
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/toiQS)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/16777315/akai)  
+📩 **Email:** [nguyensieu12112002@gmail.com](mailto:nguyensieu12112002@gmail.com)  
+💼 **LinkedIn:** [Nguyen Quoc Sieu](https://www.linkedin.com/in/nguyenquocsieu-akai)  
+🐦 **Twitter/X:** [@sieu_nguyen02](https://x.com/sieu_nguyen02)  
+💬 **Stack Overflow:** [Akai](https://stackoverflow.com/users/16777315/akai)  
 
 ---
 
-## 🔢 **Visitor Counter**  
+## 🌟 Visitor Counter  
 
-![Visitor Count](https://komarev.com/ghpvc/?username=toiQS&label=Profile%20Views&color=brightgreen&style=flat)  
+![Visitor Count](https://komarev.com/ghpvc/?username=toiQS&label=Profile%20Views&color=brightgreen&style=flat)
