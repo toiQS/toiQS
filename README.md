@@ -39,7 +39,7 @@
 
 ---
 
-### 🔹 [E-commerce Marketplace (Internship Project)](https://github.com/toiQS/PM)
+### 🔹 [E-commerce Marketplace (Internship Project)](github.com/toiQS/Digital-product-trading-system)
 > **Tech:** ASP.NET Core, EF Core, PostgreSQL, Swagger, JWT, VNPAY Integration  
 > - Developed backend APIs for authentication, product management, and payment flow  
 > - Integrated **VNPAY payment gateway** and handled secure callbacks  
