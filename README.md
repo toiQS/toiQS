@@ -1,70 +1,63 @@
-# 👋 Hi, I'm Nguyen Quoc Sieu  
+# 👋 Hi, I'm Nguyen Quoc Sieu
 
-🎯 **Fresher / Junior .NET Backend Developer**  
-💡 Passionate about **Clean Architecture, CQRS, and scalable backend systems**  
-📍 Based in **Long An, Vietnam**
-
----
-
-## 🚀 About Me  
-- Final-year IT student at **Saigon University**  
-- Internship experience at **VNPT Long An**, developing real-world APIs using **ASP.NET Core** and **EF Core**  
-- Enjoy designing maintainable backend systems and learning new architecture patterns  
-- Strong interest in **system design**, **microservices**, and **software scalability**
+🎯 Entry-level .NET Backend Developer  
+💡 Focused on Clean Architecture, transactional consistency, and backend system design  
+📍 Long An, Vietnam
 
 ---
 
-## 💼 Tech Stack  
-
-### 🧠 **Core Skills**
-- **Languages:** C#, SQL, LINQ  
-- **Frameworks:** ASP.NET Core, Entity Framework Core, WPF (MVVM)  
-- **Architecture:** Clean Architecture, CQRS, Repository & Unit of Work  
-- **Database:** PostgreSQL, SQL Server  
-- **Security:** JWT Authentication, Role-based Authorization  
-- **Tools:** Git, GitHub, Swagger, Docker (basic), GitHub Actions (CI/CD)
+## About Me
+- Final-year IT student at Saigon University
+- Backend Intern at VNPT Long An, working with real production APIs
+- Interested in backend architecture, domain modeling, and API design
+- Prefer building correct and maintainable systems over feature-heavy demos
 
 ---
 
-## 🧩 Featured Projects  
+## Tech Stack
 
-### 🔹 [TaskMind — Project Management System](https://github.com/toiQS/TaskMind)
-> **Tech:** .NET 8, EF Core, PostgreSQL, CQRS, MediatR, WPF (MVVM)  
-> - Built a desktop client + backend architecture following **Clean Architecture** principles  
-> - Implemented **CQRS pattern** with MediatR for separation of concerns  
-> - Practiced **IAsyncEnumerable streaming**, LINQ optimization, and domain-driven modeling  
-> - Focused on reusable UI components and transaction-safe repositories  
+### Core Backend
+- Languages: C#, SQL
+- Frameworks: ASP.NET Core, Entity Framework Core
+- Architecture: Clean Architecture, CQRS, Repository, Unit of Work
+- Database: PostgreSQL, SQL Server
+- Security: JWT Authentication, Role-based Authorization
 
-🔗 **Repo:** [github.com/toiQS/TaskMind](https://github.com/toiQS/TaskMind)
-
----
-
-### 🔹 [E-commerce Marketplace (Internship Project)](github.com/toiQS/Digital-product-trading-system)
-> **Tech:** ASP.NET Core, EF Core, PostgreSQL, Swagger, JWT, VNPAY Integration  
-> - Developed backend APIs for authentication, product management, and payment flow  
-> - Integrated **VNPAY payment gateway** and handled secure callbacks  
-> - Improved DB schema with EF Core migrations and indexing  
-
-🔗 **Repo:** [github.com/toiQS/Digital-product-trading-system](https://github.com/toiQS/Digital-product-trading-system)
+### Supporting Tools
+- Git, GitHub, Swagger
+- Docker (basic)
+- GitHub Actions (CI/CD – basic)
 
 ---
 
-## 📊 GitHub Stats  
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toiQS&show_icons=true&count_private=true&title_color=F97316&text_color=10B981&icon_color=10B981&bg_color=1A202C&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=toiQS&theme=dark&hide_border=true)
+### TaskMind — Backend-focused System Design
+Tech: .NET 8, EF Core, PostgreSQL, CQRS, MediatR
+
+- Designed backend architecture following Clean Architecture principles
+- Implemented CQRS with MediatR to separate use cases
+- Applied transactional consistency with EF Core and Unit of Work
+- Used domain events to manage side effects safely
+
+> Includes a small WPF UI as an exploratory MVVM experiment (not the project focus)
+
+🔗 https://github.com/toiQS/TaskMind
 
 ---
 
-## 🌐 Connect With Me  
+### E-commerce Digital Marketplace (Internship Project)
+Tech: ASP.NET Core, EF Core, PostgreSQL, JWT, VNPAY
 
-📩 **Email:** [nguyensieu12112002@gmail.com](mailto:nguyensieu12112002@gmail.com)  
-💼 **LinkedIn:** [Nguyen Quoc Sieu](https://www.linkedin.com/in/nguyenquocsieu-akai)  
-🐦 **Twitter/X:** [@sieu_nguyen02](https://x.com/sieu_nguyen02)  
-💬 **Stack Overflow:** [Akai](https://stackoverflow.com/users/16777315/akai)  
+- Built RESTful APIs for authentication and product management
+- Integrated VNPAY payment gateway with secure callback handling
+- Optimized database queries and indexing
+
+🔗 https://github.com/toiQS/Digital-product-trading-system
 
 ---
 
-## 🌟 Visitor Counter  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=toiQS&label=Profile%20Views&color=brightgreen&style=flat)
+## Contact
+📩 nguyensieu12112002@gmail.com  
+💼 LinkedIn: Nguyen Quoc Sieu  
+🐙 GitHub: https://github.com/toiQS
